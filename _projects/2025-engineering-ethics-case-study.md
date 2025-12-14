@@ -20,12 +20,14 @@ Some facts about the technical aspects of the situation ("Material Facts") are:
 - The AOA alert message for conflicting data was surpressed unless explicitly chosen to be enabled by the airline
 - The 737 Max was the only Boeing plane without an engine indicator system for the cre
 - MCAS overrode pilot inputs
+
 Some facts about the decisions of experts in the situation ("Individual Facts") are:
 - Test pilot reported issues with MCAS prior to crashes
 - AOA sensor was miscalibrated during a repair
 - Keith Leverkuhn, Vice President overseeing the development of the 737 Max, kept a "countdown clock" in the office to "generate excitement" that likely led to increased pressure in the office
 - Simulator failures related to MCAS were supressed
 - Boeing ignored safety concerns brought forward by Pearson, the senior Boeing plant superviser
+
 Some facts about the organizational structure and culture ("Organizational Facts") are:
 - The 737 required no additional pilot training
 - The FAA employees believed the FAA wasn't meeting its core safety functions
