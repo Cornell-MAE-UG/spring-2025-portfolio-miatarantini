@@ -2,7 +2,8 @@
 layout: project
 title: Blade Design Project
 description: Wind Turbine Blade Design for MAE 4272
-image: /assets/images/spaceship-design.jpg
+image: /assets/images/power_curve_1 /assets/images/power_curve_2
+
 ---
 
 Wind Turbine Blade Design and Testing
